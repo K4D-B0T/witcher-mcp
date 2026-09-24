@@ -1,0 +1,13 @@
+{
+  "allowWikiManagement": false,
+  "defaultWiki": "witcher.fandom.com",
+  "wikis": {
+    "witcher.fandom.com": {
+      "sitename": "Witcher Wiki",
+      "server": "https://witcher.fandom.com",
+      "articlepath": "/wiki",
+      "scriptpath": "",
+      "readOnly": true
+    }
+  }
+}
